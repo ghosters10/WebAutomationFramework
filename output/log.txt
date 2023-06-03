@@ -1,0 +1,4 @@
+[18:14:53.440] INFO  pageflow.LoginPageFlow.performLogin(LoginPageFlow.java:17)                       - Perform Login Operation for User:: CredentialsBO [username=rosalee.kuhic, password=FA0D3, expectedError=null]
+[18:14:53.455] INFO  pages.BasePage.openPage(BasePage.java:31)                                        - Navigating to Page:: https://demo.nopcommerce.com/login
+[18:14:59.065] INFO  pageflow.LoginPageFlow.performLogin(LoginPageFlow.java:17)                       - Perform Login Operation for User:: CredentialsBO [username=travis.grady, password=18342, expectedError=null]
+[18:14:59.065] INFO  pages.BasePage.openPage(BasePage.java:31)                                        - Navigating to Page:: https://demo.nopcommerce.com/login
