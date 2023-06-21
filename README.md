@@ -6,6 +6,7 @@ In order to use and run the framework,
 - Open this folder as a 'project' in Eclipse IDE.
 - Open the file, 'StartUp.java' in src/test/java/run package.
 - Right click anywhere on the window > Run as > Java Application.
+  OR, Right Click on POM.xml > Run As > 3 Maven Build... > In Goals textbox, enter 'clean install' > Click on Run.
 
 Following tool stack has been used for development of the framework.
 - Language: Java
@@ -14,6 +15,6 @@ Following tool stack has been used for development of the framework.
 - Test Data: MS Excel (Handling with database has also been implemented)
 - Reporting: Custom HTML reports (Allure Report).
 - Logging: Apache POI library
-- Browser Support: Chrome and Firefox
+- Browser Support: Chrome
 
 The framework can be integrated with jenkins for CI/CD purpose.
